@@ -1,18 +1,18 @@
 {
-  "name": "green-harvest-group-2",
+  "name": "green-harvest-project-group-2",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/green-harvest-group-2/",
+    "build": "vite build --base=/green-harvest-project-group-2/",
     "preview": "vite preview"
   },
   "devDependencies": {
     "vite": "^4.5.2",
     "glob": "^8.1.0"
   },
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Kateryna Koliesnikova <koliesnikova.kateryna@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "vite-plugin-full-reload": "^1.0.5",
