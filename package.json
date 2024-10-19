@@ -12,7 +12,7 @@
     "vite": "^4.5.2",
     "glob": "^8.1.0"
   },
-  "author": "Kateryna Koliesnikova <koliesnikova.kateryna@gmail.com>",
+  "author": "me",
   "license": "ISC",
   "dependencies": {
     "vite-plugin-full-reload": "^1.0.5",
